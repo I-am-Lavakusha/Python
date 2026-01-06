@@ -19,6 +19,7 @@ Note: First try to answer these questions and then if you can't than refer the a
 
 
 Practical / Programming Questions
+
 16.	Write a program to print numbers from 1 to N using a while loop.
 17.	Print even numbers from 1 to 100 using a while loop.
 18.	Print odd numbers from 1 to 50 using a while loop.

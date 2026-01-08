@@ -38,12 +38,14 @@ Practical / Programming Questions
 
 
 Answers:
+
 1. What is a while loop in Python?
 A while loop repeats a block of code as long as a given condition is True.
 
 2. What is the syntax of a while loop?
 while condition:
-    # statements
+    #statements
+
 
 3. Is the while loop entry-controlled or exit-controlled?
 It is an entry-controlled loop, because the condition is checked before execution.

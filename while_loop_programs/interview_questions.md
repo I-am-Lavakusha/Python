@@ -1,4 +1,4 @@
-Note: First try to answer these questions and then if you can't than refer the answers.
+# Note: First try to answer these questions and then if you can't than refer the answers.
 
 1.	What is a while loop in Python?
 2.	What is the syntax of a while loop?
@@ -17,27 +17,42 @@ Note: First try to answer these questions and then if you can't than refer the a
 15.	When should you prefer a while loop?
 
 
+# Practical / Programming Questions
 
-Practical / Programming Questions
+16. [Write a program to print numbers from 1 to N using a while loop](1_to_n_numbers.py)
 
-16.	Write a program to print numbers from 1 to N using a while loop.
-17.	Print even numbers from 1 to 100 using a while loop.
-18.	Print odd numbers from 1 to 50 using a while loop.
-19.	Find the sum of first N natural numbers.
-20.	Reverse a given number using a while loop.
-21.	Count the number of digits in a number.
-22.	Check whether a number is a palindrome.
-23.	Find the factorial of a number using a while loop.
-24.	Print the Fibonacci series using a while loop.
-25.	Find the GCD of two numbers using a while loop.
-26.	Write a program to keep taking input until the user enters 0.
-27.	Write a menu-driven program using a while loop.
-28.	Demonstrate the use of continue in a while loop.
-29.	Predict the output of a given while loop.
-30.	Give an example of an infinite while loop bug.
+17. [Print even numbers from 1 to 100 using a while loop](even.py)
+
+18. [Print odd numbers from 1 to 50 using a while loop](odd.py)
+
+19. [Find the sum of first N natural numbers](sum.py)
+
+20. [Reverse a given number using a while loop](number_reverse.py)
+
+21. [Count the number of digits in a number](count_digits.py)
+
+22. [Check whether a number is a palindrome](number_palindrome.py)
+
+23. [Find the factorial of a number using a while loop](factorial.py)
+
+24. [Print the Fibonacci series using a while loop](fibonacci.py)
+
+25. Find the GCD of two numbers using a while loop.
+
+26. Write a program to keep taking input until the user enters 0.
+
+27. Write a menu-driven program using a while loop.
+
+28. Demonstrate the use of continue in a while loop.
+
+29. Predict the output of a given while loop.
+
+30. Give an example of an infinite while loop bug.
+
+Practical / Programming Question
 
 
-Answers:
+## Answers:
 
 1. What is a while loop in Python?
 A while loop repeats a block of code as long as a given condition is True.

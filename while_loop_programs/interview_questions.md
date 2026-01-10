@@ -49,9 +49,6 @@
 
 30. Give an example of an infinite while loop bug.
 
-Practical / Programming Question
-
-
 ## Answers:
 
 1. What is a while loop in Python?

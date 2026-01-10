@@ -37,17 +37,17 @@
 
 24. [Print the Fibonacci series using a while loop](fibonacci.py)
 
-25. Find the GCD of two numbers using a while loop.
+25. [Find the GCD of two numbers using a while loop](gcd.py)
 
-26. Write a program to keep taking input until the user enters 0.
+26. [Write a program to keep taking input until the user enters 0](input_until_zero.py)
 
-27. Write a menu-driven program using a while loop.
+27. [Write a menu-driven program using a while loop](menu_driven.py)
 
-28. Demonstrate the use of continue in a while loop.
+28. [Demonstrate the use of continue in a while loop](continue_example.py)
 
-29. Predict the output of a given while loop.
+29. [Predict the output of a given while loop](predict_output.md)
 
-30. Give an example of an infinite while loop bug.
+30. [Give an example of an infinite while loop bug](infinite_loop.py)
 
 ## Answers:
 

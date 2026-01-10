@@ -1,3 +1,11 @@
+## for loop interview questions and answers
+
+1. What is a for loop in Python?
+2. Difference between for and while loop?
+3. What is range()?
+4. Can a for loop run without range()?
+
+
 1️⃣ What is a for loop in Python?
 
 A for loop is used to iterate over a sequence such as a list, string, or range.

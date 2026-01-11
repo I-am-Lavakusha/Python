@@ -21,3 +21,21 @@
 9. How do you remove spaces from a string?
 
 10. How do you find the number of words in a string?
+
+## questions and answers
+
+1. What is a string in programming?
+
+A string is a sequence of characters enclosed in quotes.
+Example: "hello", "Java123"
+
+2. How do you find the length of a string?
+
+The length is the total number of characters in the string.
+
+Example (Python):
+s = "hello"
+print(len(s))  
+
+# Output: 5
+

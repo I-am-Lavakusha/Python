@@ -22,6 +22,29 @@
 
 10. How do you find the number of words in a string?
 
+
+# String Programming Questions (Only Questions)
+
+1. Write a program to reverse a given string.
+
+2. Write a program to check whether a string is a palindrome.
+
+3. Write a program to count vowels, consonants, digits, and spaces in a string.
+
+Write a program to find the frequency of characters in a string.
+
+Write a program to remove duplicate characters from a string.
+
+Write a program to find the first non-repeating character in a string.
+
+Write a program to count the number of words in a string.
+
+Write a program to check if two strings are anagrams.
+
+Write a program to replace all vowels with * in a string.
+
+Write a program to find the longest word in a sentence.
+
 ## questions and answers
 
 1. What is a string in programming?

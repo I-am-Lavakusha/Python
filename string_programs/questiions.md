@@ -31,19 +31,19 @@
 
 3. Write a program to count vowels, consonants, digits, and spaces in a string.
 
-Write a program to find the frequency of characters in a string.
+4. Write a program to find the frequency of characters in a string.
 
-Write a program to remove duplicate characters from a string.
+5. Write a program to remove duplicate characters from a string.
 
-Write a program to find the first non-repeating character in a string.
+6. Write a program to find the first non-repeating character in a string.
 
-Write a program to count the number of words in a string.
+7. Write a program to count the number of words in a string.
 
-Write a program to check if two strings are anagrams.
+8. Write a program to check if two strings are anagrams.
 
-Write a program to replace all vowels with * in a string.
+9. Write a program to replace all vowels with * in a string.
 
-Write a program to find the longest word in a sentence.
+10. Write a program to find the longest word in a sentence.
 
 ## questions and answers
 

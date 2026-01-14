@@ -6,7 +6,7 @@
 
 2. How do you find the length of a string?
 
-3. How do you reverse a string?
+3. How do you reverse a [string?](reverse.py)
 
 4. How do you check if a string is a palindrome?
 
